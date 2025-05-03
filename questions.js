@@ -1,4 +1,4 @@
-const dadosQuestoes = [
+window.dadosQuestoes = [
   // Perguntas em Português (10)
   {
     pergunta: "Quem é Elías?",
